@@ -1,16 +1,10 @@
 # calculator_app
 
-A new Flutter project.
+dependencies:
+  math_expressions: ^2.4.0
 
-## Getting Started
+To Install this dependency with Flutter:
+$ flutter pub add math_expressions
 
-This project is a starting point for a Flutter application.
+<img width="343" alt="image" src="https://github.com/CHOC4HOL1C/Flutter-Calculator-App/assets/95487275/e116527f-ffdf-4afd-847b-39fc72953b43">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
